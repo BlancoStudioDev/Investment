@@ -55,7 +55,7 @@ Nonostante la liberalizzazione del commercio, l’Unione Europea manterrà **tar
 - banane
 - grano
 - aglio
-- alcool ed etanolo
+- etanolo
 
 Inoltre, verranno **limitati gli import** di:
 - carne di pecora e capra
