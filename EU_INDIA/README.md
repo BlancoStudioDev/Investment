@@ -1,3 +1,10 @@
+
+# OnionRings Investment Group
+
+![OnionRings Investment Group](file.jpg)
+
+---
+
 # EU – INDIA  
 ## Accordo di libero scambio (FTA)
 
